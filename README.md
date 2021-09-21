@@ -1,5 +1,8 @@
-# Assingment 6 #
+# Covid cases #
 -----------------
+This program visually displays registered covid cases.
+
+NOTE: The data is  only until November 2020.
 ## Requirements ##
 To run the script ypu need to have these packages installed:
 - Pandas
@@ -14,7 +17,7 @@ pip3 install [package name]
 #### web_visualization.py ####
 This is the main script of the assignment.\
 This script depends on data from the csv files in the covid_cases directory.\
-When running the script using 
+When running the script using
 ```bash
 python3 web_visualization.py
 ```
