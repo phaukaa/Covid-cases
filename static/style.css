@@ -1,0 +1,9 @@
+.graphs {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    grid-auto-flow: column;
+    gap: 4px;
+    margin-left: auto;
+    margin-right: auto
+}
